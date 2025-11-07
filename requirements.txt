@@ -1,0 +1,9 @@
+streamlit
+pandas
+networkx
+matplotlib
+numpy
+scikit-learn
+sentence-transformers
+requests
+tqdm
